@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on JobAI: CIS 3500 Final Project</title>
-    <link>http://localhost:1313/cis-350-jobAI/categories/</link>
+    <link>https://dilini-ranaweera.github.io/cis-350-jobAI/categories/</link>
     <description>Recent content in Categories on JobAI: CIS 3500 Final Project</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Dilini Ranaweera, 2025</copyright>
     <lastBuildDate>Sun, 11 May 2025 12:11:04 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/cis-350-jobAI/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dilini-ranaweera.github.io/cis-350-jobAI/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Release Notes</title>
-      <link>http://localhost:1313/cis-350-jobAI/categories/hugo-release-notes/</link>
+      <link>https://dilini-ranaweera.github.io/cis-350-jobAI/categories/hugo-release-notes/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/cis-350-jobAI/categories/hugo-release-notes/</guid>
+      <guid>https://dilini-ranaweera.github.io/cis-350-jobAI/categories/hugo-release-notes/</guid>
       <description></description>
     </item>
     <item>
       <title>The Bootstrap Blog</title>
-      <link>http://localhost:1313/cis-350-jobAI/categories/the-bootstrap-blog/</link>
+      <link>https://dilini-ranaweera.github.io/cis-350-jobAI/categories/the-bootstrap-blog/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/cis-350-jobAI/categories/the-bootstrap-blog/</guid>
+      <guid>https://dilini-ranaweera.github.io/cis-350-jobAI/categories/the-bootstrap-blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo Bootstrap Theme</title>
-      <link>http://localhost:1313/cis-350-jobAI/categories/hugo-bootstrap-theme/</link>
+      <link>https://dilini-ranaweera.github.io/cis-350-jobAI/categories/hugo-bootstrap-theme/</link>
       <pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate>
-      <guid>http://localhost:1313/cis-350-jobAI/categories/hugo-bootstrap-theme/</guid>
+      <guid>https://dilini-ranaweera.github.io/cis-350-jobAI/categories/hugo-bootstrap-theme/</guid>
       <description></description>
     </item>
   </channel>

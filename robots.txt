@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /
+Disallow: /404.html
+Sitemap: https://dilini-ranaweera.github.io/cis-350-jobAI/sitemap.xml
