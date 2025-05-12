@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on JobAI: CIS 3500 Final Project</title>
-    <link>https://dilini-ranaweera.github.io/cis-350-jobAI/tags/</link>
+    <link>http://localhost:1313/cis-350-jobAI/tags/</link>
     <description>Recent content in Tags on JobAI: CIS 3500 Final Project</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Dilini Ranaweera, 2025</copyright>
     <lastBuildDate>Sun, 11 May 2025 12:11:04 -0400</lastBuildDate>
-    <atom:link href="https://dilini-ranaweera.github.io/cis-350-jobAI/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cis-350-jobAI/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
-      <link>https://dilini-ranaweera.github.io/cis-350-jobAI/tags/hugo/</link>
+      <link>http://localhost:1313/cis-350-jobAI/tags/hugo/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0100</pubDate>
-      <guid>https://dilini-ranaweera.github.io/cis-350-jobAI/tags/hugo/</guid>
+      <guid>http://localhost:1313/cis-350-jobAI/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Bootstrap</title>
-      <link>https://dilini-ranaweera.github.io/cis-350-jobAI/tags/bootstrap/</link>
+      <link>http://localhost:1313/cis-350-jobAI/tags/bootstrap/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0100</pubDate>
-      <guid>https://dilini-ranaweera.github.io/cis-350-jobAI/tags/bootstrap/</guid>
+      <guid>http://localhost:1313/cis-350-jobAI/tags/bootstrap/</guid>
       <description></description>
     </item>
     <item>
       <title>Featured</title>
-      <link>https://dilini-ranaweera.github.io/cis-350-jobAI/tags/featured/</link>
+      <link>http://localhost:1313/cis-350-jobAI/tags/featured/</link>
       <pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate>
-      <guid>https://dilini-ranaweera.github.io/cis-350-jobAI/tags/featured/</guid>
+      <guid>http://localhost:1313/cis-350-jobAI/tags/featured/</guid>
       <description></description>
     </item>
     <item>
       <title>Index</title>
-      <link>https://dilini-ranaweera.github.io/cis-350-jobAI/tags/index/</link>
+      <link>http://localhost:1313/cis-350-jobAI/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dilini-ranaweera.github.io/cis-350-jobAI/tags/index/</guid>
+      <guid>http://localhost:1313/cis-350-jobAI/tags/index/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>https://dilini-ranaweera.github.io/cis-350-jobAI/tags/privacy/</link>
+      <link>http://localhost:1313/cis-350-jobAI/tags/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dilini-ranaweera.github.io/cis-350-jobAI/tags/privacy/</guid>
+      <guid>http://localhost:1313/cis-350-jobAI/tags/privacy/</guid>
       <description></description>
     </item>
   </channel>
